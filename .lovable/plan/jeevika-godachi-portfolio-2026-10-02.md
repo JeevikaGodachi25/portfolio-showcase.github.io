@@ -1,9 +1,11 @@
 # Jeevika Godachi Portfolio
 
-## Goal
+# Goal
+
 Build a responsive, one-page developer portfolio that follows the supplied modern editorial brief and uses the uploaded laptop image only as design inspiration.
 
 ## What I’ll build
+
 - A sticky, responsive navigation with working section links and mobile menu.
 - A bold editorial home section with Jeevika’s name, honest introduction, and working project, GitHub, contact, and LinkedIn actions.
 - About, featured projects, technical skills, current learning, engineering notes, contact, and footer sections.
@@ -13,6 +15,7 @@ Build a responsive, one-page developer portfolio that follows the supplied moder
 - Unique page metadata plus updated setup and customization guidance.
 
 ## Technical details
+
 - Keep the existing React 19, TanStack Start, Vite, Tailwind CSS v4, and Lucide setup.
 - Use semantic HTML and data-driven reusable components.
 - Use only semantic color tokens from the shared stylesheet.
